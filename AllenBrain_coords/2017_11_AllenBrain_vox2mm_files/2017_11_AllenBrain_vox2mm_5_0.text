@@ -1,0 +1,20 @@
+   structure_id  slab_num  well_id slab_type structure_acronym  \
+0          4143         9    11281        CX             MTG-i   
+1          4151         9    11305        CX           ITG-mts   
+2          4149         9    11289        CX           ITG-its   
+3          4142         8    11335        CX             MTG-s   
+4          4135         8    11319        CX             STG-l   
+
+                                      structure_name  polygon_id  mri_voxel_x  \
+0  middle temporal gyrus, left, inferior bank of ...     1283581          149   
+1         inferior temporal gyrus, left, bank of mts     1283601          152   
+2     inferior temporal gyrus, left, bank of the its     1283603          143   
+3  middle temporal gyrus, left, superior bank of ...     1279507          151   
+4  superior temporal gyrus, left, lateral bank of...     1283331          160   
+
+   mri_voxel_y  mri_voxel_z  mni_x  mni_y  mni_z  mri_mm_x  mri_mm_y  mri_mm_z  
+0          106          137    -58    -46      3       149       106       137  
+1          128          137    -61    -46    -19       152       128       137  
+2          126          137    -52    -46    -17       143       126       137  
+3          108          127    -60    -36      1       151       108       127  
+4          100          127    -69    -36      9       160       100       127  
