@@ -1,4 +1,7 @@
 # AllenHumanGeneMNI
+
+[![DOI](https://zenodo.org/badge/131175230.svg)](https://zenodo.org/badge/latestdoi/131175230)
+
 Careful multispectral registration of the Allen Human Brain Gene Samples in MNI ICBM NLIN SYM 09c space
 
 This set of scripts and data is a re-registration of the Allen Human Brain MRIs
